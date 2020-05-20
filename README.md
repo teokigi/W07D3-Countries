@@ -1,4 +1,4 @@
-# countries_solution
+# countries
 
 ## Project setup
 ```
